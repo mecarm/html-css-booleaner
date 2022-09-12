@@ -15,3 +15,15 @@ header{
     width: 150px;
     margin-top: 30px;
 }
+
+#author{
+    color: #4FA0FF;
+}
+
+.credits{
+    color: darkgray;
+}
+
+.date{
+    font-size: 10px;
+}
