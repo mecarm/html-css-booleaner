@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    /* padding: 0; */
+    
     box-sizing: border-box;
 }
 
@@ -38,6 +38,7 @@ header{
 
 table{
     text-align: left;
+
 }
 #td3{
     width: 600px;
@@ -53,5 +54,23 @@ table{
 
 #lightblue{
     background-color: #B2E4F2;
+}
 
+.related{
+    width: 300px;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px ;
+}
+
+.pc{
+    background-image: url("../img/monitor.jpg");
+}
+
+.display{
+    background-image: url("../img/graph.jpg");
 }
