@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    
     box-sizing: border-box;
 }
 
@@ -11,9 +10,14 @@ header{
     background-color: #4FA0FF;
 }
 
+main{
+    padding: 0 50px;
+}
+
 #logo{
     width: 150px;
     margin-top: 30px;
+    margin-left: 50px;
 }
 
 #author{
@@ -38,6 +42,7 @@ header{
 
 table{
     text-align: left;
+    border-spacing: 0;
 
 }
 #td3{
@@ -73,4 +78,8 @@ table{
 
 .display{
     background-image: url("../img/graph.jpg");
+}
+
+footer{
+    padding: 0 50px;
 }
