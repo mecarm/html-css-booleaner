@@ -24,7 +24,7 @@ main{
     color: #4FA0FF;
 }
 
-.credits{
+.credits, h4{
     color: darkgray;
 }
 
@@ -50,15 +50,16 @@ table{
 
 }
 #td3{
-    width: 600px;
+    width: 60%;
 }
 
 #td12{
-    width: 200px;
+    width: 20%;
 }
 
-#blueline{
+thead{
     background-color: #20A9E5;
+    color: white;
 }
 
 #lightblue{
